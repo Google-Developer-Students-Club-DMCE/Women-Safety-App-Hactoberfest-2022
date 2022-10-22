@@ -6,10 +6,9 @@
 1. [Introduction ](#kt0)
 2. [Existing System](#kt1)
 3. [Scope of the Study](#kt2)
-4. [Proposed System ](#kt3)
-5. [System Requirement ](#kt4)
-6. [How to contribute to this project ](#kt5)
-7. [References](#kt6)
+4. [System Requirement ](#kt3)
+5. [How to contribute to this project ](#kt4)
+6. [References](#kt5)
 
 <div id='kt0'>
 
@@ -27,16 +26,8 @@ There are very limited number of applications for women protection when they are
 ## Scope of the Study
 
 By observing a lot  of cases that there has been a shocking increase in crimes against women. 731 rapes reported in first six months of 2019 in Bangladesh which shows how important it is to try to do something immediately to decrease it.Android technology  is one  among the foremost stable and most regularly used communication technology .Most students of tertiary institutions carry mobile phones which is capable of sending calls.This project is introducing an android app that ensures women's safety and minimizes the danger by identifying the position of the person at risk.
-  
+ 
 <div id='kt3'>
-
-## Proposed System
-
-![use-case daigram](https://user-images.githubusercontent.com/95536219/197334738-2cd8c9cb-5afc-4643-8d14-8600b12e4acb.png)
-
-Use case diagram consists mainly three modules, Guardian app which is installed in the guardian mobile. and initiated by giving there mobile number.Girl app which is installed in the girls mobile. and initiated by giving girls name, id, mobile number.Server login module which consist of data of gaurdian location information.
-
-<div id='kt4'>
 
 ## System Requirements 
 
@@ -56,9 +47,13 @@ Use case diagram consists mainly three modules, Guardian app which is installed 
 
 ##	Software Requirement
 
-•	[Android Studio with Flutter Plugin](https://link-url-here.org)
+•	Software Development Kit(SDK)
 
-<div id='kt5'>
+• Integrated Development Kit
+
+• Java Software Development Kit(JDK)
+
+<div id='kt4'>
 
 ## How to contribute to this project 
 
@@ -67,7 +62,7 @@ Use case diagram consists mainly three modules, Guardian app which is installed 
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/your-username/Women-Safety-App-Hactoberfest-2022.git
 ```
 
 * Create a branch
@@ -89,7 +84,7 @@ git push origin branch-name
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
 
-<div id='kt6'>
+<div id='kt5'>
 
 ## References
 
