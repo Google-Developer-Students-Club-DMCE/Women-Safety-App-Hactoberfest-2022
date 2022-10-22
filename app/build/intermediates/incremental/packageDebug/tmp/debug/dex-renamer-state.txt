@@ -1,0 +1,4 @@
+#Sun Oct 23 02:27:16 IST 2022
+base.0=D\:\\Jaydip\\Business Projects\\Child and Women Safety and Security Application\\Source Code\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
