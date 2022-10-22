@@ -1,5 +1,4 @@
 # Women-Safety-App-Hactoberfest-2022
-# Women-Safety-App-Hactoberfest-2022
 
 
 # Table of contents
