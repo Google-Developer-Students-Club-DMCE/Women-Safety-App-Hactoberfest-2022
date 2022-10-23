@@ -7,7 +7,6 @@
 3. [Scope of the Study](#kt2)
 4. [System Requirement ](#kt3)
 5. [How to contribute to this project ](#kt4)
-6. [References](#kt5)
 
 <div id='kt0'>
 
@@ -82,10 +81,3 @@ git push origin branch-name
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
-
-<div id='kt5'>
-
-## References
-
--	https://developer.android.com/
--	https://stackoverflow.com/
