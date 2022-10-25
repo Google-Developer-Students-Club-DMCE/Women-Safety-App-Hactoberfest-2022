@@ -1,12 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: net.skoumal.fragmentback:fragment-back:0.2.3@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/88ea4d683279483933feab8300a0e011/jetified-fragment-back-0.2.3/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/88ea4d683279483933feab8300a0e011/jetified-fragment-back-0.2.3/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/88ea4d683279483933feab8300a0e011/jetified-fragment-back-0.2.3/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/63f6829d8d303fa4d864663ea8d3706b/jetified-fragment-back-0.2.3/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/63f6829d8d303fa4d864663ea8d3706b/jetified-fragment-back-0.2.3/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/63f6829d8d303fa4d864663ea8d3706b/jetified-fragment-back-0.2.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ce2f4469f4c6ff1b5243c257e80ffaf1/jetified-fragment-back-0.2.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ce2f4469f4c6ff1b5243c257e80ffaf1/jetified-fragment-back-0.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ce2f4469f4c6ff1b5243c257e80ffaf1/jetified-fragment-back-0.2.3/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.skoumal.fragmentback/fragment-back/0.2.3/7704bf7fb2b3490b825fa667338cae09dc3245bb/fragment-back-0.2.3-javadoc.jar!/" />
